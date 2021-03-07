@@ -1,6 +1,6 @@
 # Sistema Solar readme
 
-![N|Solid](https://gyazo.com/dde1b3eb9289ccb137b0d2cd0ff4af28.png)
+![N|Solid](https://i.gyazo.com/c1ebc76c699252789da35563f5f69753.jpg)
 # Indice
 
   - Introducción
@@ -38,4 +38,4 @@ En esta entrega no existe ninguna interacción por parte del usuario, ya que tod
 
 **Gif sobre el funcionamiento**
 
-![Alt Text](https://gyazo.com/e649d74b9f4904642052ea87205ab64f.gif)
+![Alt Text](https://i.gyazo.com/e649d74b9f4904642052ea87205ab64f.mp4)

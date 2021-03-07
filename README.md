@@ -19,16 +19,18 @@ En esta tercera entrega se nos ha propuesto la realización de una simulación d
 
 Nuestra aplicación se fundamenta en una clase planeta que es la responsable de la gestión mayoritaria de la aplicación.
 Nuestra aplicación empieza con un planeta "Sol" el cual tiene varios planetas (máximo 10), que giran a su alrededor. A su vez, estos planetas pueden tener satélites que orbiten a su al rededor.
-![N|Solid](https://user-images.githubusercontent.com/55792571/109482104-80775a80-7a75-11eb-8576-349de6e3b9f5.png)
+![N|Solid](https://i.gyazo.com/45b06c8927c5e5c15df475a206076a5e.jpg)
 
 En esta segunda fase deberemos pulsar la tecla "p" para realizar el cambio de nuestra vista bidimensional a la representación tridimensional. En esta nueva vista tendremos la posibilidad de mover la figura en los ejes "x" e "y", es decir, tanto vertical como horizontalmente. En esta vista también podremos pulsar la tecla "r" para reiniciar la aplicación y así poder introducir una nueva figura.
 
-![N|Solid](https://gyazo.com/45b06c8927c5e5c15df475a206076a5e.png)
+
 
 **Decisiones de diseño**:
 
 Se ha añadido un comentario sobre la incapacidad de maximizar la aplicación debido al tamaño de la imagen de fondo. Al tener una dimensiones prederteminadas esta no puede ser adaptada para ocupar la pantalla correctamente.
 Por otra parte se ha decidido que los planetas pertenezcan a un planeta mayor, es decir, el array de planetas ya mencionado. Esto implica una ejecución recursiva para calcular las rotaciones de los mismos, no obstante es la manera más sencilla de poder añadir sistematicamente más astros a nuestro sistema sin necesidad de sobreescribir el código.
+
+![N|Solid](https://i.gyazo.com/dde1b3eb9289ccb137b0d2cd0ff4af28.jpg)
 
 **Tutorial**
 

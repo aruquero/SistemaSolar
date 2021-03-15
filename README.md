@@ -21,8 +21,6 @@ Nuestra aplicación se fundamenta en una clase planeta que es la responsable de 
 Nuestra aplicación empieza con un planeta "Sol" el cual tiene varios planetas (máximo 10), que giran a su alrededor. A su vez, estos planetas pueden tener satélites que orbiten a su al rededor.
 ![N|Solid](https://i.gyazo.com/45b06c8927c5e5c15df475a206076a5e.jpg)
 
-En esta segunda fase deberemos pulsar la tecla "p" para realizar el cambio de nuestra vista bidimensional a la representación tridimensional. En esta nueva vista tendremos la posibilidad de mover la figura en los ejes "x" e "y", es decir, tanto vertical como horizontalmente. En esta vista también podremos pulsar la tecla "r" para reiniciar la aplicación y así poder introducir una nueva figura.
-
 
 
 **Decisiones de diseño**:
